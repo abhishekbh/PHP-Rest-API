@@ -1,3 +1,7 @@
 ==TODOs==
 
-- add error_logs and warnings 
+=MAJOR=
+  - authentication
+
+=MINOR=
+  - add error_logs and warnings 
